@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
-global.botname = 'Bixby MD'
-global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
+global.owner = ['233595885532']
+global.premium = ['233595885532']
+global.ownernomer = '233595885532'
+global.ownername = 'TIMTECH'
+global.botname = 'VIRTUAL KOMBAT'
+global.footer = ' VIRTUAL KOMBAT ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
 global.ig = 'https://github.com/darkalphaxteam'
-global.region = 'India, South India, Kerala'
+global.region = 'NIGERIA, GHANA'
 global.sc = 'https://github.com/darkalphaxteam/Queen-Bixby-MD'
 global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
-global.packname = 'Queen Bixby MD'
-global.author = 'Thinura '
+global.packname = 'VIRTUAL KOMBAT MD'
+global.author = 'TIMTECH '
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
